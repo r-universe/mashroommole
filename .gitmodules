@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MG1StationaryProbability"]
+	path = MG1StationaryProbability
+	url = https://github.com/mashroommole/mg1stationaryprobability
+	shallow = true
+	registered = true
